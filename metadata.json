@@ -1,0 +1,5 @@
+{
+  "name": "Sprout",
+  "description": "A gamified habit tracker for Telegram where habits grow into plants.",
+  "requestFramePermissions": []
+}
